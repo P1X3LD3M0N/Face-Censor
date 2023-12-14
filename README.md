@@ -27,7 +27,7 @@ git clone https://github.com/your-username/face-censor.git
 2. Change into the project directory:
 
 ```bash
-cd face-censor
+cd Face-Censor
 ```
 
 3. Install the required dependencies:
